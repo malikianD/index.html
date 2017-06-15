@@ -1,0 +1,75 @@
+body {
+    
+    background-image: url(grey4_background.png);
+    height: 100%;
+    font-family: sans-serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    border-radius: 100%;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-image-width: 50px;
+}
+
+h1 h2 h3{ 
+    font-size: 80px;
+    text-align: center;
+    color: black;
+    text-shadow: 0 0 5px white, 0 0 10px white,
+                 0 0 20px white, 0 0 30px white,
+                 0 0 40px white;
+}
+
+/*h2 {
+    font-size: 35px;   
+}
+
+h3 {
+    font-size: 25px;
+}*/
+
+span {
+    color: red;
+    font-weight: bold;   
+}
+
+table {
+    width: 80%;   
+    text-align: center;
+    border-width: 0px;
+    
+    
+}
+
+.tBackWhite {
+    background-color: white;
+}
+
+.tBlack {
+    background-color: black;  
+}
+
+.tWhite {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+div {
+    font-style: italic;
+    font-size: 14px
+      
+}
+
+footer {
+    font-style: italic;
+    font-size: 12px;
+}
